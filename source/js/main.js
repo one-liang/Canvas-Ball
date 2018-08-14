@@ -1,8 +1,8 @@
 var canvas = document.getElementById("mycanvas")
 var ctx = canvas.getContext("2d")
 
-ww = canvas.width = window.innerWidth
-wh = canvas.height = window.innerHeight
+var ww = canvas.width = window.innerWidth
+var wh = canvas.height = window.innerHeight
 // 設寬高滿版
 window.addEventListener("resize",function(){
   ww = canvas.width = window.innerWidth
