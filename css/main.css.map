@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.sass"],"names":[],"mappings":"AAAA;EACE,aAAY;EACZ,UAAS;EACT,iBAAgB,EAAG;;AACrB;EACE,YAAW,EAAG","file":"main.css","sourcesContent":["html,body {\n  height: 100%;\n  margin: 0;\n  overflow: hidden; }\ncanvas {\n  width: 100%; }\n"]}
